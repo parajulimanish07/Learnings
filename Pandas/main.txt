@@ -1,0 +1,16 @@
+# Pandas is a Python library that helps you work with data.
+# Think of it like a super-powered Excel or Google Sheets, but in Python!
+
+# Organizing data into tables (called DataFrames).
+# Cleaning and preparing data.
+# Analyzing data (like calculating averages, sums, etc.).
+# Reading and writing data from files (like CSV, Excel, etc.).
+# Easily allows us to manipulate and analyze data using dataframe structures. Excel ra datasheet ko combo(DF)
+# BACKBONE OF DATA SCIENCE / ML
+
+
+
+
+
+
+
